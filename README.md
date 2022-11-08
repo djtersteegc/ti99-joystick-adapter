@@ -10,7 +10,7 @@ https://www.aliexpress.us/item/3256802562651339.html
 
 The top of the 4-40 lugs simply unscew from the DB9 sockets leaving the bottom part to securly mount to the PCB.
 
-![PCBBack](docs/PCBBack.jpg)
+![PCBBack](docs/PCBBAck.jpg)
 
 ![PCBTop](docs/PCBTop.jpg)
 
